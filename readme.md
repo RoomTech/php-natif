@@ -6,6 +6,7 @@
 Un site statisque est un site qui ne change pas. Un site dynamique est un site qui change.
 
 - Les variables et les constantes
+
 Les variables sont des moyens de stocker des données. Il y a deux types de variables :
 Les variables locales et les variables globales.
 Les variables locales sont des variables qui sont déclarées dans une fonction.
@@ -15,7 +16,10 @@ Les constantes sont des variables qui ne peuvent pas être modifiées. Une const
 
 - Les types de variables
 - Les constantes
-- Les opérateurs
+- Les opérateurs arithmétiques
+- Les operateurs de taches
+- Les opérateurs de comparaison
+- Les opérateurs logiques
 - Les conditions
 - Les boucles
 - Les fonctions
